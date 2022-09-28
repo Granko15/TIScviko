@@ -15,4 +15,4 @@ Nas tim tvoria clenovia:
 1. Jakub Kloc
 2. Tomáš Bisták
 3.
-4.
+4. Kristína Mačičková
