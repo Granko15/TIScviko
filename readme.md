@@ -14,5 +14,5 @@ Nas tim tvoria clenovia:
 
 1. Jakub Kloc
 2.
-3.
+3. Matúš Granec
 4.
