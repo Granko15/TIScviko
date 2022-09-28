@@ -14,5 +14,10 @@ Nas tim tvoria clenovia:
 
 1. Jakub Kloc
 2.
+<<<<<<< HEAD
 3. Matúš Granec
 4.
+=======
+3.
+4. Kristína Mačičková
+>>>>>>> main
