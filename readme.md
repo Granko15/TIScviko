@@ -13,6 +13,6 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1. Jakub Kloc
-2.
-3.Matúš Granec
+2. Tomáš Bisták
+3. Matúš Granec
 4. Kristína Mačičková
